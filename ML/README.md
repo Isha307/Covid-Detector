@@ -1,21 +1,21 @@
 ## Basic Steps for creating a model and deploying it
 
-** Choose Dataset
+* Choose Dataset
 
 
-** Create Model
+* Create Model
 
 
-** Pickle a Model Using Titanic Data
+* Pickle a Model Using Titanic Data
 
 
-** Create Flask App
+* Create Flask App
 
 
-** Test Flask App Locally 
+* Test Flask App Locally 
 
 
-** Deploy to Heroku
+* Deploy to Heroku
 
 
-** Test Working App
+* Test Working App
