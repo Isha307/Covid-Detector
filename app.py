@@ -29,7 +29,6 @@ def model_predict(img_path, model):
 @app.route('/')
 def home():
     # Main page
-    print("1")
     return render_template('index.html')
 
 
@@ -37,7 +36,7 @@ def home():
 def predict():
     if request.method == 'POST':
         # Get the file from post request
-        print("2")
+    
         f = request.files['file']
         basepath = os.path.dirname(__file__)
         file_path = os.path.join(
