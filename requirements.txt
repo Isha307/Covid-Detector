@@ -69,7 +69,7 @@ parso==0.7.1
 pickleshare==0.7.5
 Pillow==9.0.1
 pipenv==2022.1.8
-pipreqs==0.4.10
+pipreqs==0.4.12
 prometheus-client==0.9.0
 prompt-toolkit==3.0.8
 protobuf==3.18.3
